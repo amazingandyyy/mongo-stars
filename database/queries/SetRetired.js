@@ -12,5 +12,5 @@ module.exports = (_ids) => {
         retired: true
     },{
         multi: true
-    })
+    });
 };
